@@ -1,0 +1,79 @@
+{
+  "musics": [
+    {
+      "id": "1",
+      "author": "Guns N'Roses",
+      "text": "Civil War"
+    },
+    {
+      "id": "2",
+      "author": "AC/DC",
+      "text": "Highway to Hell"
+    },
+    {
+      "id": "3",
+      "author": "Led Zeppelin",
+      "text": "Whole Lotta Love"
+    },
+    {
+      "id": "4",
+      "author": "Van Halen",
+      "text": "Jump"
+    },
+    {
+      "id": "5",
+      "author": "Deep Purple",
+      "text": "Smoke on the Water"
+    },
+    {
+      "id": "6",
+      "author": "Gun N'Roses",
+      "text": "November Raw"
+    },
+    {
+      "id": "7",
+      "author": "Aerosmith",
+      "text": "Drean On"
+    },
+    {
+      "id": "8",
+      "author": "Queen",
+      "text": "We Will Rock You"
+    },
+    {
+      "id": "9",
+      "author": "Rolling Stones",
+      "text": "It's Only Rock'N' Roll"
+    },
+    {
+      "id": "10",
+      "author": "The Who",
+      "text": "My Generation"
+    },
+    {
+      "id": "11",
+      "author": "Led Zeppelin",
+      "text": "Stairway To Heaven"
+    },
+    {
+      "id": "12",
+      "author": "Metallica",
+      "text": "Enter Sandman"
+    },
+    {
+      "id": "13",
+      "author": "Pink Floid ",
+      "text": "Anoyher Brick In The Wall"
+    },
+    {
+      "id": "14",
+      "author": "AC / DC",
+      "text": "Back In Black"
+    },
+    {
+      "id": "15",
+      "author": "Deep Purple",
+      "text": "Smoke On The Water"
+    }
+  ]
+}
